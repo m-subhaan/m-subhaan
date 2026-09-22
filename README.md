@@ -2,14 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=220&section=header&text=Muhammad%20Subhan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Developer%20%E2%80%A2%20AWS%20%E2%80%A2%20Data%20Pipelines%20%E2%80%A2%20AI%20Integration&descSize=17&descAlignY=58&descColor=58A6FF" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=Building+production+systems+from+DB+to+UI+%F0%9F%9A%80;NLP+%E2%86%92+structured+finance+API+actions+in+%3C30s+%E2%9A%A1;Real-time+IoT+pipelines+at+airport+scale+%E2%9C%88%EF%B8%8F;AWS+CDK+%7C+PostgreSQL+%7C+React+%7C+Python;Open+to+senior+roles+in+Canada+%F0%9F%87%A8%F0%9F%87%A6)](https://readme-typing-svg.herokuapp.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=Building+production+systems+from+DB+to+UI+%F0%9F%9A%80;NLP+%E2%86%92+structured+finance+API+actions+in+%3C30s+%E2%9A%A1;Real-time+IoT+pipelines+at+airport+scale+%E2%9C%88%EF%B8%8F;AWS+CDK+%7C+PostgreSQL+%7C+React+%7C+Python;5%2B+years+owning+systems+end+to+end+%F0%9F%9B%A0%EF%B8%8F)](https://readme-typing-svg.herokuapp.com)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-m--subhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-subhan/)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/muhammad-subhan-ud-din/badges)
 [![Email](https://img.shields.io/badge/Gmail-muhammadsubhan221b-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsubhan221b@gmail.com)
-[![Relocating](https://img.shields.io/badge/Relocating%20to-Canada%20%F0%9F%87%A8%F0%9F%87%A6-D52B1E?style=for-the-badge)](https://github.com/m-subhaan)
 
 </div>
 
@@ -24,8 +23,6 @@ Senior full-stack and data engineer with **5+ years** owning production systems 
 Currently at **FAIR Consulting Group** (Sydney, remote), I design the API layer behind an LLM assistant that converts plain English into structured finance transactions, build email-triggered data pipelines that retire hundreds of manual steps, and modernise legacy SOAP systems into resilient REST flows — all for enterprise clients across Australia and New Zealand.
 
 Before that at **Northbay Solutions** (Halifax, Canada) I built real-time IoT data infrastructure on AWS and led frontend development for Intelligize, a public SEC filings compliance platform.
-
-> **Currently:** Arranging my own Canadian visa and work authorisation. Actively targeting senior roles in Canada.
 
 <br clear="right"/>
 
@@ -231,8 +228,6 @@ Aug 2021 – Dec 2023 ╔══════════════════�
 | **Senior Software Engineer** | Full-stack, backend, or data engineering focus |
 | **Data / Platform Engineer** | Pipeline design, AWS data infrastructure |
 | **Tech Lead / Senior+** | Comfortable owning architecture and mentoring junior engineers |
-| **Location** | Canada — arranging my own visa & work authorisation |
-| **Remote or hybrid** | Open to both |
 
 <br/>
 
