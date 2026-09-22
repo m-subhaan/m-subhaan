@@ -1,14 +1,17 @@
 <div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Muhammad Subhan" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=220&section=header&text=Muhammad%20Subhan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SAP%20BTP%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20AWS%20%E2%80%A2%20Data%20Pipelines&descSize=17&descAlignY=58&descColor=58A6FF" />
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=SAP+BTP+%7C+Joule+%7C+Integration+Suite+%7C+CAP+%F0%9F%94%A7;NLP+%E2%86%92+structured+finance+API+actions+in+%3C30s+%E2%9A%A1;Real-time+IoT+pipelines+at+airport+scale+%E2%9C%88%EF%B8%8F;Building+production+systems+from+DB+to+UI+%F0%9F%9A%80;5%2B+years+owning+systems+end+to+end+%F0%9F%9B%A0%EF%B8%8F)](https://readme-typing-svg.herokuapp.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=SAP+BTP+%7C+Joule+%7C+Integration+Suite+%7C+CAP+%F0%9F%94%A7;NLP+%E2%86%92+structured+finance+API+actions+in+%3C30s+%E2%9A%A1;Real-time+IoT+pipelines+at+airport+scale+%E2%9C%88%EF%B8%8F;Building+production+systems+from+DB+to+UI+%F0%9F%9A%80;5%2B+years+owning+systems+end+to+end+%F0%9F%9B%A0%EF%B8%8F)](https://readme-typing-svg.herokuapp.com)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-m--subhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-subhan/)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/muhammad-subhan-ud-din/badges)
 [![Email](https://img.shields.io/badge/Gmail-muhammadsubhan221b-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsubhan221b@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=m-subhaan&color=58A6FF&style=for-the-badge&label=Profile+Views)](https://github.com/m-subhaan)
 
 </div>
 
@@ -70,63 +73,39 @@ also_building = [
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark)](https://skillicons.dev)
 
-**SAP BTP**
+**SAP BTP &nbsp;·&nbsp; Primary Platform**
 
-![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0070F2?style=flat-square&logo=sap&logoColor=white)
-![SAP Joule](https://img.shields.io/badge/SAP%20Joule-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![SAP CAP](https://img.shields.io/badge/SAP%20CAP-1B6AC9?style=flat-square&logo=sap&logoColor=white)
-![SAP BPA](https://img.shields.io/badge/Build%20Process%20Automation-0070F2?style=flat-square&logo=sap&logoColor=white)
-![Integration Suite](https://img.shields.io/badge/Integration%20Suite%20(CPI)-FF6600?style=flat-square&logo=sap&logoColor=white)
-![SAP Commerce Cloud](https://img.shields.io/badge/Commerce%20Cloud-00B4D8?style=flat-square&logo=sap&logoColor=white)
-![S/4HANA](https://img.shields.io/badge/S%2F4HANA%20Cloud-1B6AC9?style=flat-square&logo=sap&logoColor=white)
-![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white)
-![XSUAA](https://img.shields.io/badge/XSUAA%20%2F%20SAP%20IAS-6E4AE6?style=flat-square&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Joule](https://img.shields.io/badge/SAP%20Joule-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP%20CAP-1B6AC9?style=for-the-badge&logo=sap&logoColor=white)
+![Build Process Automation](https://img.shields.io/badge/Build%20Process%20Automation-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![Integration Suite](https://img.shields.io/badge/Integration%20Suite-FF6600?style=for-the-badge&logo=sap&logoColor=white)
+![Commerce Cloud](https://img.shields.io/badge/Commerce%20Cloud-00B4D8?style=for-the-badge&logo=sap&logoColor=white)
+![S/4HANA Cloud](https://img.shields.io/badge/S%2F4HANA%20Cloud-1B6AC9?style=for-the-badge&logo=sap&logoColor=white)
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white)
+![XSUAA](https://img.shields.io/badge/XSUAA%20%2F%20SAP%20IAS-6E4AE6?style=for-the-badge&logo=sap&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,materialui&theme=dark)](https://skillicons.dev)
 
 **Backend & APIs**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST / OData / SOAP](https://img.shields.io/badge/REST%20%7C%20OData%20%7C%20SOAP-FF6C37?style=flat-square&logo=postman&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+[![Databases](https://skillicons.dev/icons?i=postgres,dynamodb,redis,mongodb,mysql,prisma&theme=dark)](https://skillicons.dev)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+[![Cloud](https://skillicons.dev/icons?i=aws,docker,terraform,githubactions&theme=dark)](https://skillicons.dev)
 
 **Developer Tooling**
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-8B5CF6?style=flat-square)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-8B5CF6?style=flat-square&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20%26%20Skill%20Design-FF6B6B?style=flat-square)
 
 </div>
@@ -225,6 +204,16 @@ Aug 2021 – Dec 2023 ╔══════════════════�
                     ║  FAST NUCES, Chiniot-Faisalabad Campus, Pakistan ║
                     ╚══════════════════════════════════════════════════╝
 ```
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-subhaan/m-subhaan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-subhaan/m-subhaan/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/m-subhaan/m-subhaan/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
 
 ---
 
