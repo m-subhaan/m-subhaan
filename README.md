@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=220&section=header&text=Muhammad%20Subhan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Developer%20%E2%80%A2%20AWS%20%E2%80%A2%20Data%20Pipelines%20%E2%80%A2%20AI%20Integration&descSize=17&descAlignY=58&descColor=58A6FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=220&section=header&text=Muhammad%20Subhan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SAP%20BTP%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20AWS%20%E2%80%A2%20Data%20Pipelines&descSize=17&descAlignY=58&descColor=58A6FF" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=Building+production+systems+from+DB+to+UI+%F0%9F%9A%80;NLP+%E2%86%92+structured+finance+API+actions+in+%3C30s+%E2%9A%A1;Real-time+IoT+pipelines+at+airport+scale+%E2%9C%88%EF%B8%8F;AWS+CDK+%7C+PostgreSQL+%7C+React+%7C+Python;5%2B+years+owning+systems+end+to+end+%F0%9F%9B%A0%EF%B8%8F)](https://readme-typing-svg.herokuapp.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=SAP+BTP+%7C+Joule+%7C+Integration+Suite+%7C+CAP+%F0%9F%94%A7;NLP+%E2%86%92+structured+finance+API+actions+in+%3C30s+%E2%9A%A1;Real-time+IoT+pipelines+at+airport+scale+%E2%9C%88%EF%B8%8F;Building+production+systems+from+DB+to+UI+%F0%9F%9A%80;5%2B+years+owning+systems+end+to+end+%F0%9F%9B%A0%EF%B8%8F)](https://readme-typing-svg.herokuapp.com)
 
 <br/>
 
@@ -18,11 +18,11 @@
 
 ### What I do
 
-Senior full-stack and data engineer with **5+ years** owning production systems end to end — PostgreSQL schema design, AWS cloud infrastructure, ETL pipelines, AI integration, and user-facing interfaces.
+SAP BTP developer and full-stack engineer with **5+ years** owning production systems end to end. At **FAIR Consulting Group** (Sydney, remote) I deliver S/4HANA, BTP and Commerce Cloud programmes for enterprise clients across Australia and New Zealand.
 
-Currently at **FAIR Consulting Group** (Sydney, remote), I design the API layer behind an LLM assistant that converts plain English into structured finance transactions, build email-triggered data pipelines that retire hundreds of manual steps, and modernise legacy SOAP systems into resilient REST flows — all for enterprise clients across Australia and New Zealand.
+Almost all of my current delivery sits on BTP — SAP Joule Skills, CAP, Build Process Automation, Integration Suite (CPI) and S/4HANA Cloud APIs. I delivered an early production rollout of SAP Joule Skills at a big-four advisory firm, shipped BPA automations retiring hundreds of manual steps, and am modernising a legacy on-premise ESB onto Integration Suite.
 
-Before that at **Northbay Solutions** (Halifax, Canada) I built real-time IoT data infrastructure on AWS and led frontend development for Intelligize, a public SEC filings compliance platform.
+A full-stack and AWS foundation (React, Node.js, TypeScript, PostgreSQL, AWS CDK) underpins the extension, middleware and UI layers around the SAP core.
 
 <br clear="right"/>
 
@@ -34,11 +34,11 @@ Before that at **Northbay Solutions** (Halifax, Canada) I built real-time IoT da
 
 | What shipped | The numbers |
 |:---|:---|
-| 🤖 **AI Assistant — SAP Joule** | Finance transactions cut from **5–7 min → under 30 seconds** |
-| 📧 **Email-triggered ETL pipeline** | Retired a **400-step manual process** — hours per file → minutes |
-| ☁️ **Infrastructure as code** | **35% faster** deployments · **20% more frequent** releases |
-| ✈️ **Real-time IoT platform** | Baggage sensor streaming at **King Khalid International Airport**, Riyadh |
-| 👥 **Engineering team lead** | Architecture, standards & code review for **3 developers** |
+| 🤖 **SAP Joule Skills — McGrathNicol** | Finance transactions cut from **5–7 min → under 30 seconds** |
+| 📧 **SAP BPA automation — Spicers** | Retired a **400-step manual process** — hours per file → minutes |
+| ☁️ **Infrastructure as code — Northbay** | **35% faster** deployments · **20% more frequent** releases |
+| ✈️ **Real-time IoT platform — KKIA** | Baggage sensor streaming at **King Khalid International Airport**, Riyadh |
+| 👥 **Engineering team lead — Officeworks** | Architecture, standards & code review for **3 developers** |
 | 🌏 **Enterprise reach** | Production systems serving clients across **Australia & New Zealand** |
 
 </div>
@@ -48,12 +48,14 @@ Before that at **Northbay Solutions** (Halifax, Canada) I built real-time IoT da
 ## 🔬 Currently Building
 
 ```python
-# FAIR Consulting Group · 2025–present
+# FAIR Consulting Group · McGrathNicol engagement · 2025–present
 currently_shipping = {
-    "project":  "SAP Joule AI Assistant — NL to Finance API Layer",
-    "role":     "sole engineer · design → build → deploy → production support",
-    "stack":    ["Python", "SAP BTP", "REST", "RBAC", "CI/CD", "Secrets Management"],
-    "impact":   "common transactions: 5–7 min → < 30 seconds",
+    "project":  "SAP Joule Skills — NL-driven S/4HANA Finance Operations",
+    "platform": "SAP BTP · Joule Studio · Cloud Foundry · XSUAA",
+    "stack":    ["Node.js", "SAP CAP", "S/4HANA Cloud APIs", "RBAC", "CI/CD"],
+    "impact":   "common finance transactions: 5–7 min → < 30 seconds",
+    "skills":   ["invoice creation/cancellation", "accrual raise/release",
+                 "time & expense invoices", "project resource management"],
 }
 
 # Open-source side projects
@@ -79,13 +81,25 @@ also_building = [
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**SAP BTP**
+
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0070F2?style=flat-square&logo=sap&logoColor=white)
+![SAP Joule](https://img.shields.io/badge/SAP%20Joule-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP%20CAP-1B6AC9?style=flat-square&logo=sap&logoColor=white)
+![SAP BPA](https://img.shields.io/badge/Build%20Process%20Automation-0070F2?style=flat-square&logo=sap&logoColor=white)
+![Integration Suite](https://img.shields.io/badge/Integration%20Suite%20(CPI)-FF6600?style=flat-square&logo=sap&logoColor=white)
+![SAP Commerce Cloud](https://img.shields.io/badge/Commerce%20Cloud-00B4D8?style=flat-square&logo=sap&logoColor=white)
+![S/4HANA](https://img.shields.io/badge/S%2F4HANA%20Cloud-1B6AC9?style=flat-square&logo=sap&logoColor=white)
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white)
+![XSUAA](https://img.shields.io/badge/XSUAA%20%2F%20SAP%20IAS-6E4AE6?style=flat-square&logo=sap&logoColor=white)
+
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 **Backend & APIs**
@@ -114,11 +128,30 @@ also_building = [
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**AI & LLM**
+**Developer Tooling**
 
-![SAP Joule](https://img.shields.io/badge/SAP%20Joule%20%2F%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-8B5CF6?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20%26%20Skill%20Design-FF6B6B?style=flat-square)
+
+</div>
+
+---
+
+## 🔷 SAP BTP Depth
+
+<div align="center">
+
+| Service / Tool | What I've built with it |
+|:---|:---|
+| **SAP Joule & Joule Studio** | Shipped production skills at McGrathNicol: invoice creation/cancellation, accrual raise/release, time & expense invoices, project resource management — all via natural language on S/4HANA Cloud |
+| **SAP Build Process Automation** | Automated 400+ manual steps at Spicers (email ingestion → Excel parse → SAP API write); migrated 4 production bots across OData v4, SOAP and custom CDS for a three-system landscape expansion |
+| **SAP Integration Suite (CPI)** | Designed resilient iFlows: SOAP→REST prepayment interface, IDoc→PAIN.001, CAMT.052/053/054 bank statement processing, PGP-encrypted SFTP via Cloud Connector, exception subprocesses with structured logging |
+| **SAP CAP** | Middleware and extension services on Cloud Foundry — the application layer bridging Joule skills to S/4HANA Cloud APIs |
+| **SAP Commerce Cloud** | Delivered Composable Storefront (Spartacus) with FarEye real-time carrier tracking (IXOM) and SAP C4C claim processing (Zespri) |
+| **S/4HANA Cloud APIs** | OData v4, SOAP and custom CDS views across finance workflows, communication arrangements and BPA bot integrations |
+| **XSUAA & SAP IAS** | Role collections, SAML token propagation, OAuth 2.0 / OIDC across BTP subaccounts — resolved group propagation issues across Dev and Production at McGrathNicol |
+| **Cloud Foundry** | Deployed BTP services and CAP applications across multi-subaccount landscapes with environment promotion pipelines |
+| **SAP Build Work Zone** | Configured as the entry point for Joule-enabled finance workflows; managed BTP connectivity and destination services |
 
 </div>
 
@@ -150,29 +183,31 @@ also_building = [
 ```
 Jan 2024 – Present  ╔══════════════════════════════════════════════════╗
                     ║  FAIR Consulting Group  ·  Sydney, AU (Remote)   ║
-                    ║  Consultant, Full-Stack Developer                 ║
+                    ║  SAP BTP Developer · Full-Stack Consultant        ║
                     ╠══════════════════════════════════════════════════╣
-  2026 – present    ║  → Legacy Integration Modernisation              ║
-                    ║    SOAP → REST  ·  XML / JSON transforms          ║
-                    ║    SFTP + PGP encryption  ·  ESB retirement       ║
+  2026 – present    ║  → Finance Integration · ESB Decommissioning     ║
+                    ║    SAP Integration Suite · SOAP→REST · iFlows    ║
+                    ║    IDoc/PAIN.001/CAMT  ·  SFTP + PGP encryption  ║
                     ╠══════════════════════════════════════════════════╣
-  Jul 2025–present  ║  → AI Assistant API Layer  (SAP Joule)           ║
-                    ║    NL skills → finance actions (invoice/accruals) ║
-                    ║    30-second transactions  ·  RBAC  ·  CI/CD      ║
+  Jul 2025–present  ║  → McGrathNicol · SAP Joule Skills & BPA        ║
+                    ║    Joule Studio · S/4HANA finance workflows       ║
+                    ║    30-second transactions  ·  XSUAA  ·  CI/CD    ║
                     ╠══════════════════════════════════════════════════╣
-  Jul–Aug 2025      ║  → Email-Triggered ETL Pipeline                  ║
-                    ║    Excel ingestion → validation → API write       ║
+  Jul–Aug 2025      ║  → Spicers · SAP Build Process Automation       ║
+                    ║    Email → Excel → validate → SAP API write      ║
                     ║    400-step manual process retired                ║
                     ╠══════════════════════════════════════════════════╣
-  Feb 2025–present  ║  → Customer Portal  ·  Chemicals Distributor     ║
-                    ║    FarEye real-time carrier data integration      ║
-                    ║    SDS website  ·  pagination  ·  accessible UI   ║
+  Feb 2025–present  ║  → IXOM · SAP Commerce Cloud & Composable SF    ║
+                    ║    FarEye carrier tracking · Azure Cosmos DB      ║
+                    ║    SDS website rebuild · Angular · accessible UI  ║
                     ╠══════════════════════════════════════════════════╣
-  Oct 2024–Feb 2025 ║  → Claims Portal  ·  Produce Exporter            ║
+  Oct 2024–Feb 2025 ║  → Zespri · Claims Portal                       ║
+                    ║    SAP Commerce Cloud · Spartacus · SAP C4C      ║
                     ║    Step-by-step guided UX  ·  inline validation   ║
                     ╠══════════════════════════════════════════════════╣
-  Apr–Oct 2024      ║  → Internal Tools Lead  ·  National AU Retailer  ║
-                    ║    Led 3 devs  ·  Auth0 RBAC  ·  XSS protection   ║
+  Apr–Oct 2024      ║  → Officeworks · Webforms & Crossdock Portals   ║
+                    ║    Led 3 devs  ·  SAP IAS  ·  Auth0 RBAC         ║
+                    ║    Material UI design system  ·  email templating ║
                     ╚══════════════════════════════════════════════════╝
 
 Aug 2021 – Dec 2023 ╔══════════════════════════════════════════════════╗
@@ -225,6 +260,7 @@ Aug 2021 – Dec 2023 ╔══════════════════�
 
 | Role type | Notes |
 |:---|:---|
+| **SAP BTP Developer** | Joule, Integration Suite, CAP, BPA — enterprise S/4HANA programmes |
 | **Senior Software Engineer** | Full-stack, backend, or data engineering focus |
 | **Data / Platform Engineer** | Pipeline design, AWS data infrastructure |
 | **Tech Lead / Senior+** | Comfortable owning architecture and mentoring junior engineers |
