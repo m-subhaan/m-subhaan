@@ -14,8 +14,6 @@
 
 ---
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=m-subhaan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-
 ### What I do
 
 SAP BTP developer and full-stack engineer with **5+ years** owning production systems end to end. At **FAIR Consulting Group** (Sydney, remote) I deliver S/4HANA, BTP and Commerce Cloud programmes for enterprise clients across Australia and New Zealand.
@@ -23,8 +21,6 @@ SAP BTP developer and full-stack engineer with **5+ years** owning production sy
 Almost all of my current delivery sits on BTP — SAP Joule Skills, CAP, Build Process Automation, Integration Suite (CPI) and S/4HANA Cloud APIs. I delivered an early production rollout of SAP Joule Skills at a big-four advisory firm, shipped BPA automations retiring hundreds of manual steps, and am modernising a legacy on-premise ESB onto Integration Suite.
 
 A full-stack and AWS foundation (React, Node.js, TypeScript, PostgreSQL, AWS CDK) underpins the extension, middleware and UI layers around the SAP core.
-
-<br clear="right"/>
 
 ---
 
@@ -229,28 +225,6 @@ Aug 2021 – Dec 2023 ╔══════════════════�
                     ║  FAST NUCES, Chiniot-Faisalabad Campus, Pakistan ║
                     ╚══════════════════════════════════════════════════╝
 ```
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-subhaan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=m-subhaan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=E8A838&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" />
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-subhaan&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1a2744&hide_border=true" />
-
-</div>
 
 ---
 
